@@ -153,6 +153,6 @@ Function Prototype:
   * [107-O](./107-O): Text file containing the best, average, and worst case time complexities of the Quick Sort Hoare Partition cheme algorithm, one per line.
 
 * **12. Dealer**
-  * [1000-sort_deck.c](./1000-sort_deck.c): C function that sorts a `deck_node_t` doubly-linked list deck of cards.
-  * Assumes that there are exactly `52` elements in the doubly-linked list.
+  * [1000-sort_deck.c](./1000-sort_deck.c): C function that sorts a deck_node_t doubly-linked list deck of cards.
+  * Assumes that there are exactly 52 elements in the doubly-linked list.
   * Orders the deck from spades to diamonds and from aces to kings.
